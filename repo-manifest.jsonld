@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/htn-2025-techtalk/commit/9cbf9068d942de171ac25a9dd77b3d46d54614f0",
       "git:hexsha": "9cbf9068d942de171ac25a9dd77b3d46d54614f0",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
