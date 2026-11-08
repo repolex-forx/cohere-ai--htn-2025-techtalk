@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "cohere-ai",
+  "repo": "htn-2025-techtalk",
+  "versions": [
+    {
+      "commit": "9cbf9068d942de171ac25a9dd77b3d46d54614f0",
+      "parsed_at": "2026-11-08T09:11:27.961818+00:00",
+      "filetree": "filetree/9cbf9068d942de171ac25a9dd77b3d46d54614f0.nq.gz",
+      "blobs": [
+        "blob/abadb5ede122573a8b5de23166976ad7ca621d1f.nq.gz",
+        "blob/3b751565c0626f08612adad6ba8dcee2bfe9ecd6.nq.gz",
+        "blob/d331c3089c8658208dceee43b3396c80bc789cb8.nq.gz",
+        "blob/39d3a5b897405ef67be3175b246ecce1d1d007e7.nq.gz",
+        "blob/1d9290cbfeed4dd6972c126eb1aef6a402e5ae26.nq.gz",
+        "blob/c8cfe3959183f8e9a50f83f54cd723f2dc9c252d.nq.gz",
+        "blob/56a2b1bda57abb4899d68562c136604b7d96c6b1.nq.gz",
+        "blob/8f3505cfb738e68fef1fd82db810fd73046ce764.nq.gz",
+        "blob/cdff847dbabea531c8c6c04792f7f7885872b80a.nq.gz",
+        "blob/f529008c3c87556ee683e869e1efde746de1b209.nq.gz",
+        "blob/9a866ccb274e15f4a371ca31313941d7229bb581.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
