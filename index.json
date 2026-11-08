@@ -1,0 +1,11 @@
+{
+  "org": "cohere-ai",
+  "repo": "htn-2025-techtalk",
+  "versions": [
+    {
+      "commit": "9cbf9068d942de171ac25a9dd77b3d46d54614f0",
+      "tag": "",
+      "parsed_at": "2026-11-08T09:14:17.652682+00:00"
+    }
+  ]
+}
